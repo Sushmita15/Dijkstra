@@ -4,6 +4,7 @@
  * with a vertex in the {@link HighwayGraph} structure.
  *
  * @author Jim Teresco
+ * @author Sushmita Mandal
  *
  */
 public class HighwayVertex {
